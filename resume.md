@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-[<i class="fa fa-file-alt" aria-hidden="true"></i> PDF](MyResume_Lihe_Liu/resume.pdf)
+[<i class="fa fa-file-alt" aria-hidden="true"></i> PDF](/MyResume_Lihe_Liu/resume.pdf)
 
 ## EDUCATION
 
