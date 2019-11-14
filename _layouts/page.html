@@ -1,7 +1,8 @@
 ---
 layout: main
 ---
-<article class="article-page">
+
+<article class="article-page" >
   <div class="page-content">
     {% if page.img %}
     <div class="page-cover-image">
@@ -9,7 +10,8 @@ layout: main
     </div> <!-- End Page Cover Image -->
     {% else %}
     {% endif %}
-    <div class="wrap-content">
+    <!-- <p align="center"></p> -->
+    <div class="wrap-content" style="width:800px; margin:0 auto;">
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
       </header>
@@ -24,3 +26,4 @@ layout: main
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
+    <!-- </p> -->
