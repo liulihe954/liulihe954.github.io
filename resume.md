@@ -3,87 +3,65 @@ layout: page
 title: Resume
 ---
 
-[<i class="fa fa-file-alt" aria-hidden="true"></i> PDF](/victorlin-resume.pdf)
+[<i class="fa fa-file-alt" aria-hidden="true"></i> PDF](MyResume_Lihe_Liu/resume.pdf)
 
 ## EDUCATION
 
-**Bachelor of Science, Computer Science**<span style="float:right;">Aug 2015 – May 2019</span><br>
-**Bachelor of Arts, Statistics**<br>
-University of Florida, GPA 3.84/4.0
+**M.S. Animal Science**<span style="float:right;">Aug 2018 – Present</span><br>
+**University of Florida**, GPA 3.63/4.0<span style="float:right;">Gainesville, FL</span><br>
+* Computational Biology. Advisor: [Dr. Francisco Peñagaricano](https://scholar.google.com/citations?user=1J7uzm4AAAAJ&hl=en)
+* ANS Department 2019 Top-up Award 
 
-## SKILLS
+**B.S. Animal Science**<span style="float:right;">Sep 2014 – Jul 2018</span><br>
+**Huazhong Agricultural University**, GPA 3.48/4.0 (Top 7%)<span style="float:right;">Wuhan, P.R.China</span><br>
+* *2016 **National Scholarship of P.R.China*** receiptent - Top 2 student within department each year
+* *2016-2017 **National Exchange Program([CAU](https://www.usnews.com/education/best-global-universities/agricultural-sciences))*** - One of the two candidates approved
+* *2017-2018 **International Exchange Program(UF)*** - The only candidate approved
 
-*Languages*: Python, Bash, JavaScript, HTML, [S]CSS, Java, C/C++, SQL, VB.NET, R, LaTeX<br>
-*Frameworks/tools*: Git, make, Flask, pandas, scikit-learn, Matplotlib, AngularJS, MongoDB
+## EXPERIENCE
 
-## INDUSTRY & RESEARCH EXPERIENCE
+**Research and Teaching Assistant**<span style="float:right;">Aug 2018 – Present</span><br>
+[Dr. Francisco Peñagaricano lab](http://fpenagaricano-lab.org/), University of Florida
+* **Research**
+    * Apply undirected graphical network models to whole transcriptome sequencing studies
+    * Develop R functions for hypergeometric-based gene set enrichment analysis in multiple annotation datasets
+* **Teaching**  - [ANS 6905 Applied Statistics in Animal Sciences](https://github.com/liulihe954/ANS6905_ANS_Stats_2019) (*Fall 2019*)
+    * Co-instructor of the R language lab sessions of graduate-level course 
+    * Covered linear and generalized linear models, experimental design
+    * Develop R package for teaching / demonstrating
 
-**Research Assistant**<span style="float:right;">May 2016 – Present</span><br>
-[Lab of Dr. Lei Zhou](https://zhoulab.us), University of Florida
+**Visiting Student / Intern**<span style="float:right;">Aug 2017 – May 2018</span><br>
+University of Florida<span style="float:right;">Gainesville ,FL</span><br>
+- Earned 18 credits toward bachelor's degree
+- Supervised undergrad research in network analysis in Dr. Peñagaricano lab
 
-- Created a Python package to parse and extract taxonomy data from hundreds of protein sequences in an object-oriented fashion
-- Determined functionality of 8 significantly mutated genes in Small Cell Lung Cancer
-- Applied machine learning models and visualizations on thousands of genomic data entires
+**Visiting Student**<span style="float:right;">Sep 2016 – July 2017</span><br>
+China Agricultural University <span style="float:right;">Beijing, P.R.China</span><br>
+- Earned 50 credits toward bachelor's degree
+- Participating sampling on dairy farms and conduct wet-lab experiments, e.g. DNA extraction and run agarose gel electrophoresis system
 
-**Teaching Assistant**<span style="float:right;">Sep 2017 – Dec 2017</span><br>
-[EML 6934 (Python Programming)](https://github.com/cjekel/Introduction-to-Python-Numerical-Analysis-for-Engineers-and-Scientist), University of Florida
+## COURSEWORK AND SKILLS
 
-- Worked with instructor in structuring a new course with 30+ graduate students
-- Covered Python basics, NumPy, pandas, Matplotlib, SciPy, scikit-learn
+**Languages**: R, Python, Bash, LaTeX, Markdown<br>
+**Tools/Pipeline**: Git, RNA-seq<br>
+**Courseswork**: 
+- R for Functional Genomics, Biostatistics Methods,Python for Biologists<br>
+- Genomics and Bioinformatics, Computational Tools for Research<br>
+- Genetic Analysis of Complex Trait in Livestock, Impact Through Networks, Genetic Epidemiology<br>
 
-**Research Intern**<span style="float:right;">Jun 2017 – Aug 2017</span><br>
-[U.S. Army Research Laboratory](http://www.arl.army.mil), Adelphi, MD
+## RESEARCH PROJECTS / WORK
 
-- Developed Python script to parse data files and determine circuit design efficiency
-- Facilitated development of efficient wideband power amplifiers for on-field transmitters
-- Nominated by branch chief as outstanding intern for ARL fellowship
+- [**Methionine-rich diet- whole Transcriptome RNA-seq**](https://github.com/liulihe954/Methylation_WGCNA) – Comparative analysis of co-expression gene network of Bovine transcriptome using RNA-seq data. Integration of methylation status info. 
 
-**Software Engineering/IT Intern**<span style="float:right;">Jul 2015 – Jan 2017</span><br>
-[Acceleration.net](https://www.acceleration.net), Gainesville, FL
+- [**Heat stress in cows - whole Transcriptome RNA-seq**](https://github.com/liulihe954/HeatStress0708) – Comparative analysis of co-expression gene network of Bovine transcriptome using RNA-seq data. Consensus network detection. Multiple time point / Dynamic
 
-- Designed Flask web application for TFTP router backup process to facilitate management of 30+ offsite devices
-- Managed 10+ client websites using WordPress and Linux command line
-- Utilized Git and Trac to coordinate efforts with co-workers
+- **Unweighted Correlation Network Construction** – Dichotomous/unweighted correlation-based network construction in different topics. e.g. [Cow metablomics](https://github.com/liulihe954/CowMetabolomics0417) and [Sheep gene expression - spermatogenesis ](https://github.com/liulihe954/Sheep-Transcriptome0327)
 
-## PROJECTS
+- **Over-representation Analysis** – Develop R functions for hypergeometric-based pathway enrichment searching in multiple databases - Reactome, Interpro, MeSH, KEGG and GO. Applied to different topics, e.g. [GWAS results - Cow fertility](https://github.com/liulihe954/ConceptionRate1001) and [Cow Estrous Cycle](https://github.com/liulihe954/Repro_Estrous_0918)
 
-- [**p53-chip-seq-data**](https://github.com/zhoulab/p53-chip-seq-data) – Machine learning and visualizations of lab-generated genomic data
-- [**uniprot-taxonomy**](https://github.com/zhoulab/uniprot-taxonomy) – Python library for extracting taxonomy information from UniProt database
-- [**H4CK-END**](/hack-end/) – Interactive back-end workshop with problems and solutions
-- [**billboard-vis**](/billboard-vis/) – Ranking visualization tool for Billboard Hot 100 charts [[source]](https://github.com/victorlin/billboard-vis)
-- [**ufsase.com**](http://ufsase.com) – Society of Asian Scientists and Engineers, UF Chapter official website
-- [**rc.ufsase.com**](http://rc.ufsase.com) – 2016 SASE Southeast Regional Conference official website
-- [**vertaxdiabolo.com**](https://vertaxdiabolo.com) - Vertax Diabolo Performance Group website [[source]](https://github.com/victorlin/vertax-site)
-- [**zhoulab.us**](https://zhoulab.us) - Zhou Lab group website [[source]](https://github.com/zhoulab/zhoulab.github.io)
-- [**gainesvillechineseschool.com**](https://gainesvillechineseschool.com) – Gainesville Chinese School official website
-
-## AWARDS
-
-**1<sup>st</sup> Place**, SASEhack Kaizen CTF<span style="float:right;">Oct 2018</span><br>
-Ranked 1<sup>st</sup> of 35 hackers in national Capture-the-Flag style information security competition
-
-## LEADERSHIP
-
-**Co-founder, Co-captain, Choreographer**<span style="float:right;">Sep 2015 – Present</span><br>
-[Vertax Diabolo Performance Group](https://vertaxdiabolo.com)
-
-- Performed at 20+ events with audiences numbering in the several hundreds
-- Awarded 1<sup>st</sup> Place at 2018 VISA Talent Show
-- Head Chinese yo-yo instructor of 15 students at Huagen Chinese School
-
-**Workshop Lead, Mentor**<span style="float:right;">Jan 2017 – Jan 2019</span><br>
-[SwampHacks 2017, 2018, 2019](https://2019.swamphacks.com)
-
-- Hosted workshop on back-end development using Python+Flask with ~50 attendees (2019)
-- Guided project groups on using Python, HTML, CSS, and JavaScript (2017, 2018, 2019)
-
-**Instructor, School Coordinator**<span style="float:right;">Jan 2018 – Apr 2018</span><br>
-[UF Teaching Youth Programming Essentials](https://cise.ufl.edu/dept/type/)
-
-- Coordinated weekly tutoring sessions amongst 5 tutors at Buchholz High School
-- Taught students programming fundamentals and basic JavaScript
+- [**SNP status - E. coli genome**](https://github.com/liulihe954/MicrobiologyGenotype) – Help to develop functions to detect SNP status. 
 
 ## PUBLICATIONS
 
-Varsha Sundaresan, **Victor T. Lin**, Faming Liang, Frederic J. Kaye, Reika Kawabata-Iwakawa, Kouya Shiraishi, Takashi Kohno, Jun Yokota, Lei Zhou.<br>
-*[Significantly Mutated Genes and Regulatory Pathways in SCLC – A Meta-analysis](https://www.sciencedirect.com/science/article/pii/S2210776217302247)*. Cancer Genetics. 2017.
+H. Louvandini; P. S. Corrêa; R. Amorín; **L. Liu** ; E. H. Ieda; C. R. Jimenez; S. M. Tsai; C. M. McManus; Francisco Peñagaricano<br>
+**Gestational and lactational exposure to gossypol alters the testis transcriptome** (submitted). BMC Genomics, 2019

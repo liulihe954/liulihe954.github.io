@@ -3,7 +3,8 @@ _site
 .jekyll-metadata
 yarn.lock
 node_modules/
-
+UselessFile
+MyResume_Lihe_Liu/
 ### macOS ###
 *.DS_Store
 .AppleDouble

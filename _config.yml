@@ -1,12 +1,14 @@
-title: Victor Lin
+title: Lihe Liu
 permalink: ':title/'
 url: "https://victorlin.github.io"
 
 # Author Settings
-author: Victor Lin
-github: victorlin
-linkedin: victor-lin
-google_scholar: DrzHirYAAAAJ
+author: Lihe Liu
+author-img: made-in-2013-thumb.jpg
+github: liulihe954
+linkedin: liheliu95
+email: lihe.liu@ufl.edu
+#google_scholar: DrzHirYAAAAJ
 
 # Build Settings
 markdown: kramdown
@@ -23,6 +25,12 @@ collections:
   mashups:
     output: true
   videos:
+    output: true
+  project:
+    output: true
+  talks:
+    output: true
+  software:
     output: true
 
 sass:

@@ -3,28 +3,9 @@ layout: page
 title: About
 ---
 
-- Computer Science and Statistics student
-- Python enthusiast
-- Mashup artist
-- Diabolo performer
-- Video production freelancer
-- iPhone repair freelancer
+My name is Lihe Liu (刘力赫), I am a Master's student in Dr. Francisco Peñagaricano lab at University of Florida. I was born and raised up at [Zibo, Shandong](https://en.wikipedia.org/wiki/Zibo), China. I recieved my B.S from **Huazhong Agricultural University** ([HZAU](https://en.wikipedia.org/wiki/Huazhong_Agricultural_University)), Wuhan, China. For my junior year, I traveled to **China Agricultural University**([CAU](https://en.wikipedia.org/wiki/China_Agricultural_University)), Beijing, China, as an exchange student in a joint-undergrad prgram. For my senior year, I took part in the internaltional exchange program hosted by China Scholarship Council and moved to **University of Florida**, Gainesville, FL.
 
-## MASHUPS
+I am interested in using computational approaches to analyse large, complex systems, especially gene co-expression network analysis. High-dimension networks come with large number of interacting parts, thus their behavior are usually obscured by the complexity of the interactions. Also, the integration of multi-layer (genetics, transcripomics, metabolomics etc.) information could provide new insights. At the same time, I am an R enthusiast, I started programming in R since my senior year and that might be pretty late, but then I fall in love with it. I enjoy the process that when you have an good idea and you write it down, after that, you keep thinking of it and polish it to make it more efficient and applicable.
 
-I deconstruct modern pop songs and blend them together.
+Always seeking delicacy.
 
-### [<i class="fab fa-youtube" aria-hidden="true"></i>](https://youtube.com/VictorLin)&nbsp;&nbsp;[<i class="fab fa-facebook-square" aria-hidden="true"></i>](https://facebook.com/VictorLinMashups)&nbsp;&nbsp;[<i class="fab fa-soundcloud" aria-hidden="true"></i>](https://soundcloud.com/victorlin)
-
-- YouTube videos with millions of views
-- [Hot 100 rankings visualizer (2017)](/billboard-vis) : data visualization tool for weekly Hot 100 charts on [Billboard](http://www.billboard.com/charts/hot-100). Used for music popularity analysis during mashup production.
-
-## VERTAX DIABOLO PERFORMANCE GROUP
-
-I co-founded a diabolo (Chinese yo-yo) performance group at the University of Florida.
-
-### [<i class="fas fa-globe" area-hidden="true"></i>](https://vertaxdiabolo.com) [<i class="fab fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/channel/UC29FE52c8_bEpfbHcmsx-Kw)&nbsp;&nbsp;[<i class="fab fa-facebook-square" aria-hidden="true"></i>](https://facebook.com/VertaxDiabolo)
-
-- Paid to perform across school campus
-- 2018 UF VISA Talent Show: 1st Place ([video](https://youtu.be/YUNdW2thldw))
-- Chinese yo-yo instructors at Huagen Chinese School

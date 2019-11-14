@@ -1,22 +1,48 @@
+<style>
+        .vl {height: 30px}
+</style>
 <nav class="main-nav">
+    {% if page.url != "/" %}
+        <h3 class="nav-link"><a href=".">
+                <img src="/assets/img/profile_final.png" height="150" width="150">
+        </a></h3>
+    {% else %}
+        <h3 class="nav-link"><a href=".">
+                <img src="/assets/img/profile_final.png" height="250" width="250">
+        </a></h3>
+    {% endif %}
+        <div class="vl"></div>
     {% if page.url != "/about/" %}
             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}about/">About</a></h3>
     {% else %}
             <h3 class="nav-link">About</h3>
     {% endif %}
-
     {% if page.url != "/resume/" %}
             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}resume/">Resume</a></h3>
     {% else %}
             <h3 class="nav-link">Resume</h3>
     {% endif %}
-
-    {% if page.url != "/videos/" %}
+    {% if page.url != "/project/" %}
+             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}project/">Projects</a></h3>
+    {% else %}
+             <h3 class="nav-link">Projects</h3>
+    {% endif %}
+    {% if page.url != "/talks/" %}
+             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}talks/">Talks</a></h3>
+    {% else %}
+             <h3 class="nav-link">Talks</h3>
+    {% endif %}
+    {% if page.url != "/software/" %}
+             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}software/">Software</a></h3>
+    {% else %}
+             <h3 class="nav-link">Software</h3>
+    {% endif %}
+        <div class="vl"></div>
+    <!-- {% if page.url != "/videos/" %}
             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}videos/">Videos</a></h3>
     {% else %}
             <h3 class="nav-link">Videos</h3>
     {% endif %}
-
     {% if page.url != "/mashups/" %}
             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}mashups/">Mashups</a></h3>
     {% else %}
@@ -27,5 +53,5 @@
             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}blog/">Blog</a></h3>
     {% else %}
             <h3 class="nav-link">Blog</h3>
-    {% endif %}
+    {% endif %} -->
 </nav>
