@@ -59,7 +59,7 @@ China Agricultural University <span style="float:right;">Beijing, P.R.China</spa
 
 - **Over-representation Analysis** – Develop R functions for hypergeometric-based pathway enrichment searching in multiple databases - Reactome, Interpro, MeSH, KEGG and GO. Applied to different topics, e.g. [GWAS results - Cow fertility](https://github.com/liulihe954/ConceptionRate1001) and [Cow Estrous Cycle](https://github.com/liulihe954/Repro_Estrous_0918)
 
-- [**SNP status - E. coli genome**](https://github.com/liulihe954/MicrobiologyGenotype) – Help to develop functions to detect SNP status. 
+- [**Data Assist**](https://github.com/liulihe954/DataAssist) – Help other researchers to organize / initially analyze data. e.g. Develop functions to detect SNP status (E. coli genome) and organize messy farm data.
 
 ## PUBLICATIONS
 

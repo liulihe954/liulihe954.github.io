@@ -11,7 +11,7 @@
                 <img src="/assets/img/profile_final.png" height="250" width="250">
         </a></h3>
     {% endif %}
-        <div class="vl"></div>
+        <!-- <div class="vl"></div> -->
     {% if page.url != "/about/" %}
             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}about/">About</a></h3>
     {% else %}
@@ -37,7 +37,12 @@
     {% else %}
              <h3 class="nav-link">Software</h3>
     {% endif %}
-        <div class="vl"></div>
+    {% if page.url != "/blog/" %}
+            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}blog/">Blog</a></h3>
+    {% else %}
+            <h3 class="nav-link">Blog</h3>
+    {% endif %}
+        <!-- <div class="vl"></div> -->
     <!-- {% if page.url != "/videos/" %}
             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}videos/">Videos</a></h3>
     {% else %}
@@ -48,7 +53,6 @@
     {% else %}
             <h3 class="nav-link">Mashups</h3>
     {% endif %}
-
     {% if page.url != "/blog/" %}
             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}blog/">Blog</a></h3>
     {% else %}
