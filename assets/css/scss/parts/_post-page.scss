@@ -1,5 +1,7 @@
 .wrap-content {
   padding: 20px;
+  vertical-align: middle;
+  margin: 0 auto;
 }
 
 .header-page {
@@ -9,13 +11,13 @@
     font-weight: 400;
     margin: 0 0 10px;
     line-height: 1.3;
-    text-transform: uppercase;
+    text-transform: capitalize;
   }
   .page-date {
     color: $dark-gray;
     font-weight: 300;
     font-size: 12px;
-    text-transform: uppercase;
+    text-transform: capitalize;
   }
 }
 
