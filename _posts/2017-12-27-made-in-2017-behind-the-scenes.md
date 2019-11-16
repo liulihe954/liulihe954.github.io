@@ -27,9 +27,11 @@ At the same time, I thought about woring completely on my local Mac, and I reall
 
 However things changed when I happen to find that RStudio can send anything to the terminal, it bridges the gap to a large extent. Well basically, RStudio can send the line where you cursor stands or any piece of code you selected to terminal, and it's not limited to R codes. This will help you to send commands to the terminal while still stay in the RStudio interface and empowered with all the fancy features, such as, color annotation, auto indentation, multi-tab windows, search and replease and the flexibility of select-and-run. This interactive way of developing experience is just so great.
 
-But remeber, this is just helping you sending thing up to the cluster, so all the objects and output will never show up in your local enviornment. Also, the output file will be in your server and need to be downloaded with a nice FTP. Normally I would use command line "scp PATH-TO-FILE PATH-TO-DESTINATION".
+But remeber, this is just helping you sending thing up to the cluster, so all the objects and output will never show up in your local enviornment. Also, the output file will be in your server and need to be downloaded with a nice FTP. Normally I would use command line "scp PATH-TO-FILE PATH-TO-DESTINATION"
+
+Also, mini tutorial is available **[here](https://www.youtube.com/watch?v=XVQSkd1JAqU&t=8s)**
 
 {% include image.html
             img="assets/img/Connect2Server_Illustr.png"
-            title="Made in 2017 Logic project"
+            title="Send codes to terminal"
             caption="Send codes (left) to terminal (right)" %}
