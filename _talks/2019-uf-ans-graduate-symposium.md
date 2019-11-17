@@ -17,5 +17,5 @@ My oral presentation is "**Deciphering complex biological processes using correl
 
 {% include image.html
             img="assets/img/2019-graduate-symposium-all.png"
-            title="2019 graduate symposium"
-            caption="" %}
+            title="2019 UF ANS graduate symposium"
+            caption="2019 UF ANS graduate symposium" %}
