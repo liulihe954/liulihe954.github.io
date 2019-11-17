@@ -33,5 +33,5 @@ Also, mini tutorial is available **[here](https://www.youtube.com/watch?v=XVQSkd
 
 {% include image.html
             img="assets/img/Connect2Server_Illustr.png"
-            title="Send codes to terminal"
+            title="Send Codes to Terminal"
             caption="Send codes (left) to terminal (right)" %}
