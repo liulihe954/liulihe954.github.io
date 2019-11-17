@@ -5,7 +5,7 @@ yarn.lock
 node_modules/
 UselessFile
 MyResume_Lihe_Liu/*
-!MyResume_Lihe_Liu/resume.pdf
+!MyResume_Lihe_Liu/Resume_Lihe_Liu.pdf
 
 ### macOS ###
 *.DS_Store
