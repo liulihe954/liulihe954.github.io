@@ -18,6 +18,19 @@ title: Resume
 * *2016-2017 **National Exchange Program([CAU](https://www.usnews.com/education/best-global-universities/agricultural-sciences))*** - One of the two candidates approved
 * *2017-2018 **International Exchange Program(UF)*** - The only candidate approved
 
+
+## COURSEWORK AND SKILLS
+**Courseswork**: 
+- R for Functional Genomics, Biostatistics Methods,Python for Biologists<br>
+- Genomics and Bioinformatics, Computational Tools for Research<br>
+- Genetic Analysis of Complex Trait in Livestock, Impact Through Networks, Genetic Epidemiology<br>
+
+**Languages**: R, Python, Bash, LaTeX, Markdown<br>
+
+**Tools/Pipeline**: Git, RNA-seq<br>
+
+
+
 ## EXPERIENCE
 
 **Research and Teaching Assistant**<span style="float:right;">Aug 2018 – Present</span><br>
@@ -40,17 +53,6 @@ China Agricultural University <span style="float:right;">Beijing, P.R.China</spa
 - Earned 50 credits toward bachelor's degree
 - Participating sampling on dairy farms and conduct wet-lab experiments, e.g. DNA extraction and run agarose gel electrophoresis system
 
-## COURSEWORK AND SKILLS
-
-**Courseswork**: 
-- R for Functional Genomics, Biostatistics Methods,Python for Biologists<br>
-- Genomics and Bioinformatics, Computational Tools for Research<br>
-- Genetic Analysis of Complex Trait in Livestock, Impact Through Networks, Genetic Epidemiology<br>
-
-**Languages**: R, Python, Bash, LaTeX, Markdown<br>
-
-**Tools/Pipeline**: Git, RNA-seq<br>
-
 ## RESEARCH PROJECTS / WORK
 
 - [**Methionine-rich diet- whole Transcriptome RNA-seq**](https://github.com/liulihe954/Methylation_WGCNA) – Comparative analysis of co-expression gene network of Bovine transcriptome using RNA-seq data. Integration of methylation status info. 
@@ -65,8 +67,8 @@ China Agricultural University <span style="float:right;">Beijing, P.R.China</spa
 
 ## PUBLICATIONS
 
-H. Louvandini; P. S. Corrêa; R. Amorín; **L. Liu** ; E. H. Ieda; C. R. Jimenez; S. M. Tsai; C. M. McManus; Francisco Peñagaricano<br>
+H. Louvandini; P. S. Corrêa; R. Amorín; **<u>L. Liu</u>** ; E. H. Ieda; C. R. Jimenez; S. M. Tsai; C. M. McManus; Francisco Peñagaricano<br>
 **Gestational and lactational exposure to gossypol alters the testis transcriptome** (under review). BMC Genomics, 2019
 
-A. Sigdel, **L. Liu**, R.Abdollahi-Arapanahi, I.~Aguilar, Francisco~Peñagaricano<br>
+A. Sigdel, **<u>L. Liu</u>**, R.Abdollahi-Arapanahi, I. Aguilar, Francisco Peñagaricano<br>
 **Genetic dissection of reproductive performance in dairy cattle under heat stress** (under review). Animal Genetics, 2019
