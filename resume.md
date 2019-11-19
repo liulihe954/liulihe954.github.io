@@ -9,7 +9,7 @@ title: Resume
 
 **M.S. Animal Science**<span style="float:right;">Aug 2018 – Present</span><br>
 **University of Florida**, GPA 3.63/4.0<span style="float:right;">Gainesville, FL</span><br>
-* Computational Biology. Advisor: [Dr. Francisco Peñagaricano](https://scholar.google.com/citations?user=1J7uzm4AAAAJ&hl=en)
+* **Computational Biology**. Advisor: [Dr. Francisco Peñagaricano](https://scholar.google.com/citations?user=1J7uzm4AAAAJ&hl=en)
 * ANS Department 2019 Top-up Award 
 
 **B.S. Animal Science**<span style="float:right;">Sep 2014 – Jul 2018</span><br>
@@ -63,7 +63,7 @@ China Agricultural University <span style="float:right;">Beijing, P.R.China</spa
 
 - **Over-representation Analysis** – Develop R functions for hypergeometric-based pathway enrichment searching in multiple databases - Reactome, Interpro, MeSH, KEGG and GO. Applied to different topics, e.g. [GWAS results - Cow fertility](https://github.com/liulihe954/ConceptionRate1001) and [Cow Estrous Cycle](https://github.com/liulihe954/Repro_Estrous_0918)
 
-- [**Data Assist**](https://github.com/liulihe954/DataAssist) – Help other researchers to organize / initially analyze data. e.g. Develop functions to detect SNP status (E. coli genome) and organize messy farm data.
+- [**Data Assist**](https://github.com/liulihe954/DataAssist) – Help other researchers to organize / initially analyze data. e.g. develop functions to detect SNP status (E. coli genome) and organize messy farm data.
 
 ## PUBLICATIONS
 
