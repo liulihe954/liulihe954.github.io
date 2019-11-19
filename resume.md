@@ -43,12 +43,12 @@ title: Resume
     * Covered linear and generalized linear models, experimental design
     * Develop R package for teaching / demonstrating
 
-**Visiting Student / Intern**<span style="float:right;">Aug 2017 – May 2018</span><br>
+**Exchange Student / Intern**<span style="float:right;">Aug 2017 – May 2018</span><br>
 University of Florida<span style="float:right;">Gainesville ,FL</span><br>
 - Earned 18 credits toward bachelor's degree
 - Supervised undergrad research in network analysis in Dr. Peñagaricano lab
 
-**Visiting Student**<span style="float:right;">Sep 2016 – July 2017</span><br>
+**Exchange Student**<span style="float:right;">Sep 2016 – July 2017</span><br>
 China Agricultural University <span style="float:right;">Beijing, P.R.China</span><br>
 - Earned 50 credits toward bachelor's degree
 - Participating sampling on dairy farms and conduct wet-lab experiments, e.g. DNA extraction and run agarose gel electrophoresis system
