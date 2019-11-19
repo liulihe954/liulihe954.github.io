@@ -23,9 +23,9 @@ paginate_path: "blog/page/:num"
 
 collections:
   mashups:
-    output: true
+    output: false
   videos:
-    output: true
+    output: false
   project:
     output: true
   talks:
