@@ -15,17 +15,17 @@ title: Resume
 **B.S. Animal Science**<span style="float:right;">Sep 2014 – Jul 2018</span><br>
 **Huazhong Agricultural University**, GPA 3.48/4.0 (Top 7%)<span style="float:right;">Wuhan, P.R.China</span><br>
 * *2016 **National Scholarship of P.R.China*** receiptent - Top 2 student within department each year
-* *2016-2017 **National Exchange Program([CAU](https://www.usnews.com/education/best-global-universities/agricultural-sciences))*** - One of the two candidates approved
+* *2016-2017 **National Exchange Program([CAU](https://en.cau.edu.cn/))*** - One of the two candidates approved
 * *2017-2018 **International Exchange Program(UF)*** - The only candidate approved
 
 
 ## COURSEWORK AND SKILLS
 **Courseswork**: 
-- R for Functional Genomics, Biostatistics Methods,Python for Biologists<br>
+- R for Functional Genomics, Biostatistics Methods, Python for Biologists<br>
 - Genomics and Bioinformatics, Computational Tools for Research<br>
 - Genetic Analysis of Complex Trait in Livestock, Impact Through Networks, Genetic Epidemiology<br>
 
-**Languages**: R, Python, Bash, LaTeX, Markdown<br>
+**Programming Languages**: R, Python, Bash, LaTeX, Markdown<br>
 
 **Tools/Pipeline**: Git, Cytoscape, RNA-seq<br>
 
