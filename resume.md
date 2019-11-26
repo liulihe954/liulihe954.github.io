@@ -27,7 +27,7 @@ title: Resume
 
 **Programming Languages**: R, Python, Bash, LaTeX, Markdown<br>
 
-**Tools/Pipeline**: Git, Cytoscape, RNA-seq<br>
+**Tools/Pipeline**: Git, Conda, Cytoscape, RNA-seq<br>
 
 
 
