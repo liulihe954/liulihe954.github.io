@@ -8,7 +8,7 @@ title: Resume
 ## EDUCATION
 
 **M.S. Animal Science**<span style="float:right;">Aug 2018 – Present</span><br>
-**University of Florida**, GPA 3.63/4.0<span style="float:right;">Gainesville, FL</span><br>
+**University of Florida**, GPA 3.69/4.0<span style="float:right;">Gainesville, FL</span><br>
 * **Computational Biology**. Advisor: [Dr. Francisco Peñagaricano](https://scholar.google.com/citations?user=1J7uzm4AAAAJ&hl=en)
 * ANS Department 2019 Top-up Award 
 
