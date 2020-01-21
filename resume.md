@@ -67,8 +67,8 @@ China Agricultural University <span style="float:right;">Beijing, P.R.China</spa
 
 ## PUBLICATIONS
 
-H. Louvandini; P. S. Corrêa; R. Amorín; **<u>L. Liu</u>** ; E. H. Ieda; C. R. Jimenez; S. M. Tsai; C. M. McManus; Francisco Peñagaricano<br>
-**"Gestational and lactational exposure to gossypol alters the testis transcriptome"** (under review). BMC Genomics, 2019
+Louvandini, H., Corrêa, P.S., Amorín, R., **<u>Liu. L</u>**, Ieda, E.H., Jimenez, C.R., Tsai, S.M., McManus, C.M. and Peñagaricano, F., 2020.<br> 
+**Gestational and lactational exposure to gossypol alters the testis transcriptome**. BMC Genomics, 21(1), pp.1-11.
 
 A. Sigdel, **<u>L. Liu</u>**, R.Abdollahi-Arapanahi, I. Aguilar, Francisco Peñagaricano<br>
 **"Genetic dissection of reproductive performance in dairy cattle under heat stress"** (under review). Animal Genetics, 2019
