@@ -13,7 +13,7 @@ title: Resume
 * ANS Department 2019 Top-up Award 
 
 **B.S. Animal Science**<span style="float:right;">Sep 2014 – Jul 2018</span><br>
-**Huazhong Agricultural University**, GPA 3.48/4.0 (Top 7%)<span style="float:right;">Wuhan, P.R.China</span><br>
+**Huazhong Agricultural University**, GPA 3.5/4.0 (Top 7%)<span style="float:right;">Wuhan, P.R.China</span><br>
 * *2016 **National Scholarship of P.R.China*** receiptent - Top 2 student within department each year
 * *2016-2017 **National Exchange Program([CAU](https://en.cau.edu.cn/))*** - One of the two candidates approved
 * *2017-2018 **International Exchange Program(UF)*** - The only candidate approved
