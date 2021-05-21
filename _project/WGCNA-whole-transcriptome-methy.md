@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Maternal Nutrition affects (Epi)genetics
+title: Differential network analysis of bovine muscle reveals changes in gene coexpression patterns in response to changes in maternal nutrition
 order_num: 4
 img_thumb: Project-DNA-methylation.png
 ---
 
-Postnatal effects of maternal nutrition on growth, productivity, and reproduction of the offspring could have important implications in the livestock industry. Maternal nutrition can induce epigenetic alterations in the fetal genome, such as DNA methylation, which in turn leads to gene expression changes that can impact the phenotype of the offspring.
+**Background**<br>
+Coexpression network analysis is a powerful tool to reveal transcriptional regulatory mechanisms, identify transcription factors, and discover gene functions. It can also be used to investigate changes in coexpression patterns in response to environmental insults or changes in experimental conditions. Maternal nutrition is considered a major intrauterine regulator of fetal developmental programming. The objective of this study was to investigate structural changes in gene coexpression networks in the muscle of bull beef calves gestated under diets with or without methionine supplementation. Both muscle transcriptome and methylome were evaluated using next generation sequencing.
 
-Integrated analysis of gene expression and DNA methylation is being investigating.
+**Results**<br>
+Maternal methionine supplementation significantly perturbed coexpression patterns in the offspring’s muscle. Indeed, we found that neither the connection strength nor the connectivity pattern of six modules (subnetworks) detected in the control diet were preserved in the methionine-rich diet. Functional characterization revealed that some of the unpreserved modules are implicated in myogenesis, adipogenesis, fibrogenesis, canonical Wnt/β-catenin pathway, ribosome structure, rRNA binding and processing, mitochondrial activities, ATP synthesis and NAD(P) H oxidoreductases, among other functions. The bisulfite sequencing analysis showed that nearly 2% of all evaluated cytosines were differentially methylated between maternal diets. Interestingly, there were significant differences in the levels of gene body DNA methylation between preserved and unpreserved modules.
 
-I'll post more details when I am allowd to.
+**Conclusions**<br>
+Overall, our findings provide evidence that maternal nutrition can significantly alter gene coexpression patterns in the offspring, and some of these perturbations are mediated by changes in DNA methylation.

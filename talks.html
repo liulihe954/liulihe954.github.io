@@ -7,9 +7,10 @@ permalink: /talks/
 {% assign items = site.talks | sort: 'order_num' %}
 {% for item in items reversed %}
 <article class="item">
-    <!-- <a>hello talkss</a> -->
+  <!-- <a>hello talkss</a> -->
   {% if item.img_thumb %}
-    <a class="item-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : item.img_thumb}})" href="{{item.url | prepend: site.baseurl}}"></a>
+  <a class="item-thumbnail" style="background-image: url({{" /assets/img/" | prepend: site.baseurl | append :
+    item.img_thumb}})" href="{{item.url | prepend: site.baseurl}}"></a>
   {% else %}
   {% endif %}
 
