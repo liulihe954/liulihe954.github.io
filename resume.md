@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-[<i class="fa fa-file-alt" aria-hidden="true"></i> PDF](/MyResume_Lihe_Liu/LiheLiu_CV.pdf)
+[<i class="fa fa-file-alt" aria-hidden="true"></i> PDF](/MyResume_Lihe_Liu/Resume_Lihe_Liu.pdf)
 
 ## RESEARCH INTERESTS
 My research interest lies in the field of computational biology and bioinformatics. Specifically, multi-omics data integration. Currently, I am working on the evaluation of the effects of prenatal nutritional factors on the offspring epigenome and transcriptome.
@@ -11,18 +11,18 @@ My research interest lies in the field of computational biology and bioinformati
 
 ## EDUCATION
 
-**Ph.D., Animal Science, Ongoing**<span style="float:right;">09/2020 - Present </span><br>
 **University of Wisconsin - Madison** <span style="float:right;">Madison, WI USA</span><br>
+**Ph.D., Animal Science, Ongoing**<span style="float:right;">09/2020 - Present </span><br>
 * Advisor: [Dr. Francisco Peñagaricano](https://andysci.wisc.edu/directory/francisco-penagaricano/)
 
-**M.S., Animal Science** <span style="float:right;">Aug 2020</span><br>
 **University of Florida** <span style="float:right;">Gainesville, FL USA</span><br>
+**M.S., Animal Science** <span style="float:right;">Aug 2020</span><br>
+
 * Thesis: [Deciphering Complex Biological Processes Using Gene Coexpression Networks](https://ufdcimages.uflib.ufl.edu/UF/E0/05/69/10/00001/Liu_L.pdf)
 * Committee: Dr. Francisco Peñagaricano, [Dr. Samantha Brooks](https://animal.ifas.ufl.edu/people/samantha-brooks/) and [Dr. Matias Kirst](https://ffgs.ifas.ufl.edu/faculty/kirst-matias/)
  
-
-**B.S., Animal Science**<span style="float:right;">Jul 2018</span><br>
 **Huazhong Agricultural University** <span style="float:right;">Wuhan, P.R.China</span><br>
+**B.S., Animal Science**<span style="float:right;">Jul 2018</span><br>
 * Joint program (50 credits for B.S.) at China Agricultural University, Beijing P.R. China
 * Study abroad (18 credits for B.S.) at University of Florida, FL USA
 
