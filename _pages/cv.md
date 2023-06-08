@@ -13,7 +13,7 @@ redirect_from:
 
 Pleases find:
 - PDF version of my [CV](https://liheliu95.me/cv_texpad/CV_Lihe_Liu.pdf){:target="_blank"}
-- PDF resume for a bioinformatics role[CV](https://liheliu95.me/cv_texpad/Resume_Lihe_Liu.pdf){:target="_blank"}
+- PDF [resume](https://liheliu95.me/cv_texpad/Resume_Lihe_Liu.pdf){:target="_blank"} for a bioinformatics role
 
 ---
 ---
@@ -101,10 +101,10 @@ Talk
 Technical Skill
 ======
 
-**Bioinformatics/Data**: RNA-Seq, WGB-Seq, Bioconductor, Tidyverse, Pandas/NumPy/SciPy, scikit-learn, TensorFlow<br>
-**Programming Languages**: Python, Java, R, Shell (Bash), SQL (MySQL), C++, JavaScript/HTML/CSS, MATLAB<br>
-**Frameworks**: Django, Spring Boot, ReactJS, NodeJS, JUnit, CUDA, OpenMP<br>
-**Developer Tools**: Git, Docker, Conda, Nextflow, Slurm, GCP, AWS (EC2, RDS, S3), Elasticsearch, Jira
+- **Bioinformatics/Data**: RNA-Seq, WGB-Seq, Bioconductor, Tidyverse, Pandas/NumPy/SciPy, scikit-learn, TensorFlow<br>
+- **Programming Languages**: Python, Java, R, Shell (Bash), SQL (MySQL), C++, JavaScript/HTML/CSS, MATLAB<br>
+- **Frameworks**: Django, Spring Boot, ReactJS, NodeJS, JUnit, CUDA, OpenMP<br>
+- **Developer Tools**: Git, Docker, Conda, Nextflow, Slurm, GCP, AWS (EC2, RDS, S3), Elasticsearch, Jira
 
 ---
 ---
