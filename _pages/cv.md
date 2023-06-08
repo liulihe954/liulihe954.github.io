@@ -12,8 +12,8 @@ redirect_from:
 **06/2023**: Currently looking for a ***computational bio/bioinformatics position (scientist/engineer/SDE)***<br>
 
 Pleases find:
-- PDF version of my CV
-- PDF resume for a bioinformatics role
+- PDF version of my [CV](https://liheliu95.me/cv_texpad/CV_Lihe_Liu.pdf){:target="_blank"}
+- PDF resume for a bioinformatics role[CV](https://liheliu95.me/cv_texpad/Resume_Lihe_Liu.pdf){:target="_blank"}
 
 ---
 ---
