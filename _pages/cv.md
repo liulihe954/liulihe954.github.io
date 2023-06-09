@@ -49,7 +49,7 @@ Education
 ---
 ---
 
-Work Eexperience
+Work Experience
 ======
 
 Department of Animal and Dairy Sciences<br>
