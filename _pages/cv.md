@@ -9,17 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-**06/2023**: Currently looking for a ***computational bio/bioinformatics position (scientist/engineer/SDE)***<br>
+**06/2023**: Currently looking for a full time ***computational-bio/bioinformatics position (scientist/engineer/SDE)***<br>
 
-Pleases find:
-- PDF version of my [CV](https://liheliu95.me/cv_texpad/CV_Lihe_Liu.pdf){:target="_blank"}
-- PDF [resume](https://liheliu95.me/cv_texpad/Resume_Lihe_Liu.pdf){:target="_blank"} for a bioinformatics role
+Pleases find a PDF [Resume](https://liheliu95.me/cv_texpad/Resume_Lihe_Liu.pdf){:target="_blank"}
 
 ---
 ---
 
-Education
+<span style="float:right;"><a href="https://liheliu95.me/cv_texpad/CV_Lihe_Liu.pdf" target="_blank">Download 
+PDF CV </a></span><br>
+
+---
+
+Education 
 ======
+
 **University of Wisconsin - Madison** <span style="float:right;">Madison, WI USA</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Ph.D. in Animal Science (computational biology track)_ <span style="float:right;">09/2020 - 08/2023 (expected) </span><br>
 - Advisor: [Dr. Francisco Peñagaricano](https://andysci.wisc.edu/directory/francisco-penagaricano/){:target="_blank"}
