@@ -2,3 +2,4 @@ _site/
 cv_texpad/Fonts/*
 *.tex
 *.cls
+*/.DS_Store
