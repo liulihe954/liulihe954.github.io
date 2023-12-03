@@ -33,5 +33,4 @@ COPY . .
 # bundle add jekyll --version "~>3.9.0"
 # bundle install
 # bundle update
-
 # bundle exec jekyll serve
