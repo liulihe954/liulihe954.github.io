@@ -80,12 +80,12 @@ analytics:
 author:
   name: "Lihe Liu"
   avatar: "Liu_L.jpg"
-  bio: "Computational Biology & Bioinformatics"
-  location: "Madison, WI"
+  bio: "Computational Biology | Advancing Cancer Research"
+  location: "San Diego, CA"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "https://scholar.google.com/citations?user=48N2nbYAAAAJ&hl=en"
-  email: "lihe.liu@wisc.edu"
+  email: "lihe.liu@outlook.com"
   researchgate: "https://www.researchgate.net/profile/Lihe-Liu"
   uri:
   bitbucket:
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "https://www.linkedin.com/in/liulihe/"
+  linkedin: "liulihe"
   orcid: "http://orcid.org/0009-0008-8853-3552"
   pinterest:
   soundcloud:

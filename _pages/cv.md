@@ -25,7 +25,7 @@ PDF CV </a></span><br>
 # Education
 
 **University of Wisconsin - Madison** <span style="float:right;">Madison, WI USA</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;_Ph.D. in Animal Science (computational biology track)_ <span style="float:right;">09/2020 - 12/2023 (expected) </span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;_Ph.D. in Animal Science (computational biology track)_ <span style="float:right;">09/2020 - 12/2023</span><br>
 
 - Advisor: [Dr. Francisco Peñagaricano](https://andysci.wisc.edu/directory/francisco-penagaricano/){:target="\_blank"}
 

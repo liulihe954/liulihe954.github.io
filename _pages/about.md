@@ -10,9 +10,53 @@ redirect_from:
 
 {% include base_path %}
 
-Hi, there! My name is Lihe Liu, currently a Ph.D. candidate in the [Department of Animal & Dairy Sciences](https://andysci.wisc.edu/){:target="\_blank"}, UW-Madison, under the supervision of [Dr. Francisco Peñagaricano](https://andysci.wisc.edu/directory/francisco-penagaricano/){:target="\_blank"}. Earlier, I worked with Francisco from 2018 to 2020 at the University of Florida. Besides my Animal Science program, I also received M.S.(2023) in [Compuater Sciences](https://www.cs.wisc.edu/){:target="\_blank"} from UW-Madison. Previously, I received my B.S. in Animal Sciences (2018) from [Huazhong Agricultural University](https://www.hzau.edu.cn/en/HOME.htm){:target="\_blank"}. During my undergrad, I spent one year studying at [China Agricultural University](https://en.cau.edu.cn/), [College of Animal Science and Technology](https://cast1.cau.edu.cn/){:target="\_blank"} and another one year studying at the [University of Florida](https://www.ufl.edu/){:target="\_blank"}.
+Hi, there! My name is Lihe Liu, and I am a postdoctoral computational biologist from [Dr. Sanju Sinha](https://sbpdiscovery.org/our-scientists/sanju-sinha-phd){:target="\_blank"} group at the [Sanford Burnham Prebys Medical Discovery Institute](https://sbpdiscovery.org/){:target="\_blank"}. Earlier, I obtained my Ph.D. in Animal Sciences from UW-Madison, working with [Dr. Francisco Peñagaricano](https://andysci.wisc.edu/directory/francisco-penagaricano/){:target="\_blank"}. I transitioned from my previous focus in Animal Genomics to Computational Oncology. When I am not in front of a laptop, you will spot me fishing on a pier or a boat near SD :) 
 
-## My research and interests
+
+
+## Education and Research Interests
+
+<table style="border-collapse: collapse; width: 100%; border: 0;">
+  <tr>
+    <!-- Education Column -->
+    <td valign="top" width="50%" style="border: 0; padding-right: 10px; font-size: 18px;">
+
+<!-- ### <strong>Education</strong> -->
+
+- <strong>Ph.D. in Animal Sciences </strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Computational Biology track<br></em>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UW-Madison, 2023<br>
+
+- <strong>M.S. in Computer Sciences</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UW-Madison, 2023<br>
+
+- <strong>M.S. in Animal Sciences</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Florida, 2020<br>
+
+- <strong>B.S. in Animal Sciences</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Huazhong Agricultural University, 2018
+
+    </td>
+
+    <!-- Research Interests Column -->
+    <td valign="top" width="50%" style="border: 0; padding-right: 10px; font-size: 18px;">
+
+<!-- ### <strong>Research Interests</strong> -->
+
+- <strong>Computational Oncology</strong><br>
+  <em>decoding the complexities of cancer through machine learning and multi-omics</em><br>
+
+- <strong>Carcinogenesis</strong><br>
+  <em>carcinogens identification, classification and therapeutic targeting</em><br>
+
+- <strong>Scientific Software Development</strong><br>
+  <em>enhance efficiency, productivity and reproducibility</em><br>
+
+    </td>
+  </tr>
+</table>
+
+<!-- ## My research and interests
 
 I am broadly interested in computational biology & bioinformatics topics. During my Ph.D., the primary focus of my research is evaluation of the effects of prenatal factors on the epigenome and transcriptome of the offspring in animal species. Additionally, I am interested in scientific software development.
 
@@ -22,6 +66,8 @@ I am broadly interested in computational biology & bioinformatics topics. During
 
 <!-- - <span style="color:blue;">[06/2023]</span>. I am currently looking for a full time position in **computational bio/bioinformatics (scientist/engineer/SDE)** area, please refer to my [CV/Resume](https://liheliu95.me/cv/). -->
 
+- [01/2024] New role at Sanford Burnham Prebys starting
+- [12/2023] Defended my Ph.D. dissertation moved to SD. Farewell Madison!
 - [05/2023] Completed my master's degree in CS at UW-Madison
 - [01/2023] DNA methylation preservation paper was published on Scientific Reports [More](https://www.nature.com/articles/s41598-023-28896-3){:target="\_blank"}
 - [01/2023] Attended PAG30 in San Diego, CA, talked about maternal diet research
