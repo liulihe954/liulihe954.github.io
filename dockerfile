@@ -26,6 +26,7 @@ COPY Gemfile* ./
 
 # Install Ruby dependencies
 RUN bundle install
+RUN bundle update
 
 # Copy the Jekyll site's code
 COPY . .
