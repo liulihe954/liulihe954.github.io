@@ -43,12 +43,12 @@ Hi, there! My name is Lihe Liu, and I am a postdoctoral computational biologist 
 
 <!-- ### <strong>Research Interests</strong> -->
 
-- <strong>Computational Oncology</strong><br>
+- <strong>Computational Pathology</strong><br>
+  <em>leveraging AI/ML in pathology images for precision medicine</em><br>
+
+- <strong>Oncology Omics</strong><br>
   <em>decoding the complexities of cancer through machine learning and multi-omics</em><br>
-
-- <strong>Carcinogenesis</strong><br>
-  <em>carcinogens identification, classification and therapeutic targeting</em><br>
-
+  
 - <strong>Scientific Software Development</strong><br>
   <em>enhance efficiency, productivity and reproducibility</em><br>
 

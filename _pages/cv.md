@@ -17,7 +17,7 @@ Pleases find a PDF [Resume](https://liheliu95.me/cv_texpad/Resume_Lihe_Liu.pdf){
 
 ---
 
-<span style="float:right;"><a href="https://liheliu95.me/cv_texpad/CV_Lihe_Liu.pdf" target="_blank">Download
+<span style="float:right;"><a href="/cv_texpad/CV_Lihe_Liu.pdf" target="_blank">Download
 PDF CV </a></span><br>
 
 ---
@@ -54,6 +54,7 @@ PDF CV </a></span><br>
 
 <!-- Department of Animal and Dairy Sciences<br> -->
 
+Cancer Molecular Therapeutics Program<br>
 **Sanford Burnham Prebys Medical Discovery Institute**, La Jolla, California USA<br>
 
 - Postdoctoral Computational Biologist <span style="float:right;"> 01/2024 – Present</span><br>
@@ -79,6 +80,8 @@ Department of Animal Sciences<br>
 
 - **_EnrichKit_** - _[Web](https://github.com/liulihe954/EnrichKitWeb){:target="\_blank"}_ / _[R package](https://github.com/liulihe954/EnrichKit){:target="\_blank"}_: toolkit for omics data analysis in animal species.
 <!-- performs an over-representation analysis of biological pathways (gene sets) given two gene lists (significant genes and total genes) using Fisher’s exact test. -->
+
+- **_ecPATH_** - _[Github](https://github.com/liulihe954/ecPATH/){:target="\_blank"}_: Predicting ecDNA status in Tumors from Histopathology Slide Images.
 
 ---
 
